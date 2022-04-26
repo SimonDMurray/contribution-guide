@@ -14,3 +14,7 @@ cellgeni/scRNA.seq.course which is forked from hemberg-lab/scRNA.seq.course (con
 hemberg-lab/sc3s (published the package by setting up github actions building python wheels, publishing to PyPI etc)
 
 SCimpleton/simpleSCENIC (helped exporting the data from genie3 vignette, running grnboost2 in python, exportng grnboost2 data back to genie3 to continue vignette) 
+
+cellgeni/cellbender (created repo and wrote scripts except qc script)
+
+cellgeni/souporcell (created repo and have contributed to scripts whilst they were stored internally, wrote some scripts)
