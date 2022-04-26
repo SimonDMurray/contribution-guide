@@ -18,3 +18,5 @@ SCimpleton/simpleSCENIC (helped exporting the data from genie3 vignette, running
 cellgeni/cellbender (created repo and wrote scripts except qc script)
 
 cellgeni/souporcell (created repo and have contributed to scripts whilst they were stored internally, wrote some scripts)
+
+cellgeni/getting_fastqs (created repo and wrote some scripts, repo is designed to get public raw data for reprocessing)
