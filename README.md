@@ -15,8 +15,10 @@ hemberg-lab/sc3s (published the package by setting up github actions building py
 
 SCimpleton/simpleSCENIC (helped exporting the data from genie3 vignette, running grnboost2 in python, exportng grnboost2 data back to genie3 to continue vignette) 
 
-cellgeni/cellbender (created repo and wrote scripts except qc script)
+cellgeni/cellbender (created repo, wrote scripts except qc script and designed readme)
 
-cellgeni/souporcell (created repo and have contributed to scripts whilst they were stored internally, wrote some scripts)
+cellgeni/souporcell (created repo, have contributed to scripts whilst they were stored internally, wrote some scripts and designed readme)
 
 cellgeni/getting_fastqs (created repo and wrote some scripts, repo is designed to get public raw data for reprocessing)
+
+cellgeni/velocyto (created repo, contributed to scripts whilst stored internally and designed readme) 
