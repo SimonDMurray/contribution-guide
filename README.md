@@ -7,11 +7,12 @@ cellgeni/docs (updated the docs, including rclone and notebooks to help guide us
 
 cellgeni/utils (added Dockerfiles for commonly used environments)
 
-cellgeni/cellatac (added additional scripts to the original pipeline for functionality)
+cellgeni/cellatac (added additional scripts to the original pipeline for functionality) - **I am now an author on this pipeline**
 
 cellgeni/scRNA.seq.course which is forked from hemberg-lab/scRNA.seq.course (contributed to both, using fork as a testing repo)
 
-hemberg-lab/sc3s (published the package by setting up github actions building python wheels, publishing to PyPI etc)
+hemberg-lab/sc3s (published the package by setting up github actions building python wheels, publishing to PyPI etc, 
+**I got a mention in the paper:** https://www.biorxiv.org/content/10.1101/2021.05.20.445027v1.full)
 
 SCimpleton/simpleSCENIC (helped exporting the data from genie3 vignette, running grnboost2 in python, exportng grnboost2 data back to genie3 to continue vignette) 
 
