@@ -25,3 +25,5 @@ cellgeni/getting_fastqs (created repo and wrote some scripts, repo is designed t
 cellgeni/velocyto (created repo, contributed to scripts whilst stored internally and designed readme) 
 
 cellgeni/grnboost2-configuration (created repo, installed pipeline and fixed it to work internally on Sanger FARM, now offered as pipeline in our team)
+
+cellgeni/rnaseq (updated configuration of pipeline to see specific variables needed to allow pipeline to run as pipeline had broken)
