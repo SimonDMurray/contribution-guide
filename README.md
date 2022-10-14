@@ -23,3 +23,5 @@ cellgeni/souporcell (created repo, have contributed to scripts whilst they were 
 cellgeni/getting_fastqs (created repo and wrote some scripts, repo is designed to get public raw data for reprocessing)
 
 cellgeni/velocyto (created repo, contributed to scripts whilst stored internally and designed readme) 
+
+cellgeni/grnboost2-configuration (created repo, installed pipeline and fixed it to work internally on Sanger FARM, now offered as pipeline in our team)
