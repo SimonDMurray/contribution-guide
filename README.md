@@ -27,3 +27,11 @@ cellgeni/velocyto (created repo, contributed to scripts whilst stored internally
 cellgeni/grnboost2-configuration (created repo, installed pipeline and fixed it to work internally on Sanger FARM, now offered as pipeline in our team)
 
 cellgeni/rnaseq (updated configuration of pipeline to see specific variables needed to allow pipeline to run as pipeline had broken) - **I am now an author on this pipeline**
+
+cellgeni/nf-velocyto - i took our velocyto pipeline and converted it to nextflow and made it able to be ran via nextflow tower
+
+cellgeni/nf-starsolo - i took our starsolo pipeline and converted it to nextflow and made it able to be ran via nextflow tower
+
+cellgeni/nf-cellbender - i took our cellbender pipeline and converted it to nextflow and made it able to be ran via nextflow tower
+
+cellgeni/nf-souporcell - i took our souporcell pipeline and converted it to nextflow and made it able to be ran via nextflow tower
