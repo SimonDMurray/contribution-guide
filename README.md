@@ -31,10 +31,25 @@ The following repositories show downstream analysis I wrote for various purposes
 * `cellgeni/notebooks` - This repository contains various basic scRNAseq downstream analysis in both Python and R which I developed and updated when major updates to the tools (such as Seurat) came out. The scripts are designed to teach new bioinformaticians how to process scRNAseq data.
 * `cellgeni/scRNA.seq.course` - This repository contains teaching materials for the bioinformatics component of a week long introduction to scRNAseq [course](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-technologies-and-analysis-20220715/). I updated these materials when major updates of tools came out prior to each teaching of the course. 
 
-### Documentation and web development
+### Documentation and Web Development
 `cellgeni/docs` contains documentation for various common practices completed by CellGen faculty at Sanger. I had to help develop a website using GitHub pages to store the documentation CellGenIT writes these faculty members. 
 
 ### Miscellaneous
 * `SCimpleton/simpleSCENIC` - A PhD student was struggling with gene regulatory network analysis so I exported the data from a genie3 vignette before the genie3 analysis (this is a bottleneck step) so that the analysis could utilise the much faster grnboost2 function in Python. I then exported the data back to R so that the PhD student could continue the genie3 vignette. 
 * `cellgeni/various_cellrangers` - This repository contains scripts for submitting cellranger alignment scripts to Sanger's IBM LSF cluster. Cellranger has various functions depending on the sequencing protocol used and so multiple scripts have been written to show how to process different data.
 * `Teichlab/tracer` - A PhD student developed a tool for TCR sequencing analysis and so I updated the container and the setup script, fixed the repository structure and added examples of how to run the tool so that the repository was more readable.
+
+# Eco-Flow - University College London
+
+### Nextflow 
+The following repositories show the high throughput pipelines I developed in Nextflow for ecological analysis as part of the Eco-Flow project. They adhere to nf-core standards, have unit testing implemented with nf-test and are designed to be deployed locally, on HPC or cloud:
+* `Eco-Flow/synteny` - This pipeline runs synteny analysis in a pairwise manner on a list of provided species.
+
+### Nextflow Configuration
+* `Eco-Flow/configs` - This repository is inspired by the nf-core configs repository and contains config files developed to allow our collaborators to deploy Nextflow on the HPC configurations at their university.
+
+### Containerisation
+* `Eco-Flow/docker-build` - This repository contains Dockerfiles for each image published to Eco-Flow's [quay.io page](https://quay.io/repository/) which are utilised in the Nextflow pipelines.
+
+### Web Development
+* `Eco-Flow/Eco-Flow.github.io` - This repositoru contains the GitHub pages structure and content for the [Eco-Flow Website](https://eco-flow.github.io/).
