@@ -44,6 +44,8 @@ The following repositories show downstream analysis I wrote for various purposes
 ### Nextflow 
 The following repositories show the high throughput pipelines I developed in Nextflow for ecological analysis as part of the Eco-Flow project. They adhere to nf-core standards, have unit testing implemented with nf-test and are designed to be deployed locally, on HPC or cloud:
 * `Eco-Flow/synteny` - This pipeline runs synteny analysis in a pairwise manner on a list of provided species.
+* `Eco-Flow/pollen-metabarcoding` - This pipeline runs taxonomy predictions on sequencing data designed for a project on pollen metabarcoding.
+* `Eco-Flow/excon` - This pipeline runs expansion and contraction analysis on gene families.
 
 ### Nextflow Configuration
 * `Eco-Flow/configs` - This repository is inspired by the nf-core configs repository and contains config files developed to allow our collaborators to deploy Nextflow on the HPC configurations at their university.
@@ -52,4 +54,4 @@ The following repositories show the high throughput pipelines I developed in Nex
 * `Eco-Flow/docker-build` - This repository contains Dockerfiles for each image published to Eco-Flow's [quay.io page](https://quay.io/repository/) which are utilised in the Nextflow pipelines.
 
 ### Web Development
-* `Eco-Flow/Eco-Flow.github.io` - This repositoru contains the GitHub pages structure and content for the [Eco-Flow Website](https://eco-flow.github.io/).
+* `Eco-Flow/Eco-Flow.github.io` - This repository contains the GitHub pages structure and content for the [Eco-Flow Website](https://eco-flow.github.io/).
